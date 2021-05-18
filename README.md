@@ -1,5 +1,4 @@
-# script-sipac
-Script de acautelamento de bens no SIPAC
+# Script de acautelamento de bens no SIPAC
 
 ## Dependências para execução
 
