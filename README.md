@@ -8,4 +8,9 @@ https://chromedriver.chromium.org/downloads
 ### Instalação do Selenium
 ```
 # pip install -r requirements.txt
+```
 
+## Execução do script
+```
+# python sipac.py
+```
