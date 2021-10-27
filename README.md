@@ -5,7 +5,7 @@
 ### Instalação do driver do navegador de acordo com a versão
 https://chromedriver.chromium.org/downloads
 
-### Instalando o crhomedriver no Linux
+### Instalando o chromedriver no Linux
 ```
 sudo mv -f chromedriver /usr/local/share/chromedriver
 sudo ln -s /usr/local/share/chromedriver /usr/local/bin/chromedriver
