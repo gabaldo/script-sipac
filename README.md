@@ -12,6 +12,12 @@ sudo ln -s /usr/local/share/chromedriver /usr/local/bin/chromedriver
 sudo ln -s /usr/local/share/chromedriver /usr/bin/chromedriver
 ```
 
+### Criando ambiente virtual para desenvolvimento
+```
+python -m venv venv
+source venv/bin/activate
+```
+
 ### Instalação do Selenium
 ```
 # pip install -r requirements.txt
