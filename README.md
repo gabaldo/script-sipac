@@ -1,4 +1,4 @@
-# Script de acautelamento de bens no SIPAC
+# Script de acautelamento de bens no SIPAC (Setic-PR)
 
 ## Dependências para execução
 
